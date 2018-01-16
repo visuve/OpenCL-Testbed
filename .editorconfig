@@ -1,0 +1,11 @@
+# Topmost EditorConfig file
+root = true
+
+# Defaults for all files
+[*]
+charset = utf-8
+end_of_line = crlf
+
+# C/C++
+[*.{c,cl,cpp,cxx,h,hpp,hxx,ipp}]
+indent_style = space

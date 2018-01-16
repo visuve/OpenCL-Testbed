@@ -1,0 +1,1 @@
+#define IDR_OPENCL_CODE 101
